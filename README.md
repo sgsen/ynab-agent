@@ -4,7 +4,13 @@ The high level goal is to use an agent to download my bank statements on a weekl
 
 ## References
 
-- model with tools: https://www.ollama.com/library/qwen2.5
-- uv reference: https://docs.astral.sh/uv/guides/projects/#project-structure
+- models:
+  - local model with tools: https://www.ollama.com/library/qwen2.5
+  - cloud model via openrouter: https://openrouter.ai/docs/community/frameworks
+  - gemini model via google ai studio
+- langchain: https://github.com/langchain-ai/langchain
 - browser use docs: https://docs.browser-use.com/introduction
 - youtuber help: https://www.youtube.com/watch?v=zGkVKix_CRU
+
+- optional learning:
+  - uv package manager reference: https://docs.astral.sh/uv/guides/projects/#project-structure
